@@ -29,7 +29,7 @@ The system supports:
 ## Repository Structure
 
 ```
-├── music_playlist_simulator.cpp/                                        # Source code files
+├── srms.cpp/                                                            # Source code file
 ├── Presentation - Student Record Management System.pdf/                 # Presentation
 ├── Student Record Management System Report.pdf/                         # Project report and documentation
 └── README.md                                                            # Project overview
